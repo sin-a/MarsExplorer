@@ -1,5 +1,5 @@
 {
-	"root":"/home/dkoutras/ray_results/PPO_config_serach",
+	"root":"/home/tuff/ray_results/",
 	"params":{
 		"noise":{
 			"1":[1, 1],
